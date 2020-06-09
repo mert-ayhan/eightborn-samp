@@ -1,0 +1,6 @@
+#include "src/enums/karakter.pwn"
+#include "src/enums/birlik.pwn"
+#include "src/enums/veriler.pwn"
+#include "src/enums/ev.pwn"
+#include "src/enums/isyeri.pwn"
+#include "src/enums/oyuncusilah.pwn"

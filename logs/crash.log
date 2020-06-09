@@ -1,0 +1,1339 @@
+[16:17:05] Run time error 19: "File or function is not found"
+[16:17:05]  fileOpen
+[16:17:05]  fileSeek
+[16:17:05]  fileRead
+[18:34:01] Run time error 19: "File or function is not found"
+[18:34:01]  fileOpen
+[18:34:01]  fileSeek
+[18:34:01]  fileRead
+[18:35:11] Run time error 19: "File or function is not found"
+[18:35:11]  fileOpen
+[18:35:11]  fileSeek
+[18:35:11]  fileRead
+[18:37:14] Run time error 19: "File or function is not found"
+[18:37:14]  fileOpen
+[18:37:14]  fileSeek
+[18:37:14]  fileRead
+[18:40:07] Run time error 19: "File or function is not found"
+[18:40:07]  fileOpen
+[18:40:07]  fileSeek
+[18:40:07]  fileRead
+[18:44:44] Run time error 19: "File or function is not found"
+[18:44:44]  fileOpen
+[18:44:44]  fileSeek
+[18:44:44]  fileRead
+[19:33:51] Run time error 19: "File or function is not found"
+[19:33:51]  fileOpen
+[19:33:51]  fileSeek
+[19:33:51]  fileRead
+[10:25:50] Run time error 19: "File or function is not found"
+[10:25:50]  fileOpen
+[10:25:50]  fileSeek
+[10:25:50]  fileRead
+[12:11:33] Run time error 19: "File or function is not found"
+[12:11:33]  fileOpen
+[12:11:33]  fileSeek
+[12:11:33]  fileRead
+[22:00:53] Run time error 19: "File or function is not found"
+[22:00:53]  fileOpen
+[22:00:53]  fileSeek
+[22:00:53]  fileRead
+[22:03:55] Run time error 19: "File or function is not found"
+[22:03:55]  fileOpen
+[22:03:55]  fileSeek
+[22:03:55]  fileRead
+[22:06:35] Run time error 19: "File or function is not found"
+[22:06:35]  fileOpen
+[22:06:35]  fileSeek
+[22:06:35]  fileRead
+[22:07:50] Run time error 19: "File or function is not found"
+[22:07:50]  fileOpen
+[22:07:50]  fileSeek
+[22:07:50]  fileRead
+[22:09:07] Run time error 19: "File or function is not found"
+[22:09:07]  fileOpen
+[22:09:07]  fileSeek
+[22:09:07]  fileRead
+[23:51:05] Run time error 19: "File or function is not found"
+[23:51:05]  fileOpen
+[23:51:05]  fileSeek
+[23:51:05]  fileRead
+[00:03:00] Run time error 19: "File or function is not found"
+[00:03:00]  fileOpen
+[00:03:00]  fileSeek
+[00:03:00]  fileRead
+[00:09:14] Run time error 19: "File or function is not found"
+[00:09:14]  fileOpen
+[00:09:14]  fileSeek
+[00:09:14]  fileRead
+[13:31:34] Run time error 19: "File or function is not found"
+[13:31:34]  fileOpen
+[13:31:34]  fileSeek
+[13:31:34]  fileRead
+[13:37:48] Run time error 19: "File or function is not found"
+[13:37:48]  fileOpen
+[13:37:48]  fileSeek
+[13:37:48]  fileRead
+[13:42:29] Run time error 19: "File or function is not found"
+[13:42:29]  fileOpen
+[13:42:29]  fileSeek
+[13:42:29]  fileRead
+[21:32:28] Run time error 19: "File or function is not found"
+[21:32:28]  fileOpen
+[21:32:28]  fileSeek
+[21:32:28]  fileRead
+[11:56:45] Run time error 19: "File or function is not found"
+[11:56:45]  fileOpen
+[11:56:45]  fileSeek
+[11:56:45]  fileRead
+[11:57:20] Run time error 19: "File or function is not found"
+[11:57:20]  fileOpen
+[11:57:20]  fileSeek
+[11:57:20]  fileRead
+[23:32:49] Run time error 19: "File or function is not found"
+[23:32:49]  fileOpen
+[23:32:49]  fileSeek
+[23:32:49]  fileRead
+[23:34:31] Run time error 19: "File or function is not found"
+[23:34:31]  fileOpen
+[23:34:31]  fileSeek
+[23:34:31]  fileRead
+[10:29:33] Run time error 19: "File or function is not found"
+[10:29:33]  fileOpen
+[10:29:33]  fileSeek
+[10:29:33]  fileRead
+[10:35:34] Run time error 19: "File or function is not found"
+[10:35:34]  fileOpen
+[10:35:34]  fileSeek
+[10:35:34]  fileRead
+[10:35:40] Run time error 3: "Stack/heap collision (insufficient stack size)"
+[10:35:40]  Stack pointer (STK) is 0x4F187D8, heap pointer (HEA) is 0x4F187E4
+[10:35:40] AMX backtrace:
+[10:35:40] #0 002fa4a8 in public BirlikYukle () at F:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:50883
+[10:37:59] Run time error 19: "File or function is not found"
+[10:37:59]  fileOpen
+[10:37:59]  fileSeek
+[10:37:59]  fileRead
+[10:38:02] Run time error 3: "Stack/heap collision (insufficient stack size)"
+[10:38:02]  Stack pointer (STK) is 0x48EEDA8, heap pointer (HEA) is 0x48EEDB4
+[10:38:02] AMX backtrace:
+[10:38:02] #0 002fa4a8 in public BirlikYukle () at F:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:50881
+[10:38:48] Run time error 19: "File or function is not found"
+[10:38:48]  fileOpen
+[10:38:48]  fileSeek
+[10:38:48]  fileRead
+[10:40:57] Run time error 19: "File or function is not found"
+[10:40:57]  fileOpen
+[10:40:57]  fileSeek
+[10:40:57]  fileRead
+[10:40:59] Run time error 3: "Stack/heap collision (insufficient stack size)"
+[10:40:59]  Stack pointer (STK) is 0x48EEDC0, heap pointer (HEA) is 0x48EEDCC
+[10:40:59] AMX backtrace:
+[10:40:59] #0 002fa4d0 in public BirlikYukle () at F:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:50882
+[10:42:33] Run time error 19: "File or function is not found"
+[10:42:33]  fileOpen
+[10:42:33]  fileSeek
+[10:42:33]  fileRead
+[13:22:45] Run time error 19: "File or function is not found"
+[13:22:45]  fileOpen
+[13:22:45]  fileSeek
+[13:22:45]  fileRead
+[12:35:06] Run time error 19: "File or function is not found"
+[12:35:06]  fileOpen
+[12:35:06]  fileSeek
+[12:35:06]  fileRead
+[12:40:22] Run time error 19: "File or function is not found"
+[12:40:22]  fileOpen
+[12:40:22]  fileSeek
+[12:40:22]  fileRead
+[12:41:36] Run time error 19: "File or function is not found"
+[12:41:36]  fileOpen
+[12:41:36]  fileSeek
+[12:41:36]  fileRead
+[12:44:21] Run time error 19: "File or function is not found"
+[12:44:21]  fileOpen
+[12:44:21]  fileSeek
+[12:44:21]  fileRead
+[12:49:40] Run time error 19: "File or function is not found"
+[12:49:40]  fileOpen
+[12:49:40]  fileSeek
+[12:49:40]  fileRead
+[12:51:57] Run time error 19: "File or function is not found"
+[12:51:57]  fileOpen
+[12:51:57]  fileSeek
+[12:51:57]  fileRead
+[20:43:44] Server crashed while executing eightborn.amx
+[20:43:44] AMX backtrace:
+[20:43:44] #0 native format () from samp-server.exe
+[20:43:44] #1 00279f78 in public OnDialogResponse (playerid=0, dialogid=455, response=1, listitem=-1, inputtext[]=@049859f4 "s") at F:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:43497
+[20:43:44] Native backtrace:
+[20:43:44] #0 00403334 in ?? () from samp-server.exe
+[20:43:44] #1 5740d60a in ?? () from plugins\crashdetect.DLL
+[20:43:44] #2 57414078 in ?? () from plugins\crashdetect.DLL
+[20:43:44] #3 5740a767 in ?? () from plugins\crashdetect.DLL
+[20:43:44] #4 5740d65a in ?? () from plugins\crashdetect.DLL
+[20:43:44] #5 55393374 in ?? () from plugins\streamer.DLL
+[20:43:44] #6 0046ef11 in ?? () from samp-server.exe
+[20:43:44] #7 00452120 in ?? () from samp-server.exe
+[20:43:44] #8 772701c9 in ?? () from C:\WINDOWS\SYSTEM32\ntdll.dll
+[20:43:44] #9 76b8ebcb in ?? () from C:\WINDOWS\System32\KERNELBASE.dll
+[20:43:44] #10 004a57e9 in ?? () from samp-server.exe
+[20:43:44] #11 0045ab8a in ?? () from samp-server.exe
+[20:43:44] #12 77276707 in ?? () from C:\WINDOWS\SYSTEM32\ntdll.dll
+[20:43:44] #13 772705ea in ?? () from C:\WINDOWS\SYSTEM32\ntdll.dll
+[20:43:44] #14 0049689c in ?? () from samp-server.exe
+[20:43:44] #15 00496aac in ?? () from samp-server.exe
+[20:43:44] #16 00492cab in ?? () from samp-server.exe
+[20:43:44] #17 004a1d61 in ?? () from samp-server.exe
+[20:43:44] #18 004a1d71 in ?? () from samp-server.exe
+[20:43:44] Registers:
+[20:43:44] EAX: 00000068 EBX: 00000001 ECX: 00000000 EDX: 00000000
+[20:43:44] ESI: 004fb400 EDI: 0000007b EBP: 004a1d61 ESP: 0019fe88
+[20:43:44] EIP: 004a1d71 EFLAGS: 00210202
+[20:43:44] Stack:
+[20:43:44] ESP+00000000: 004b1e20 0019ff60 004b1a1c ffffffff
+[20:43:44] ESP+00000020: 00000094 00000006 00000002 000023f0
+[20:43:44] ESP+00000040: 00000000 00000000 00000000 00000000
+[20:43:44] ESP+00000060: 00000000 00000000 00000000 00000000
+[20:43:44] ESP+00000080: 00000000 00000000 00000000 00000000
+[20:43:44] ESP+000000a0: 00000000 00000000 00000000 00000000
+[20:43:44] ESP+000000c0: 00000000 00000000 c0000005 00000000
+[20:43:44] ESP+000000e0: 004c0790 00000000 0019ff80 74b76359
+[20:43:44] ESP+00000100: 00358000 24155abc 00000000 00000000
+[20:43:44] ESP+00000120: 00000000 00000000 00000000 00000000
+[20:43:44] ESP+00000140: 00000000 0019ffe4 77289f80 533dc7b8
+[20:43:44] ESP+00000160: 77298f0f 00000000 00000000 004a3427
+[20:43:44] ESP+00000180: 00000001 0000331c 000000dc 00000000
+[20:43:44] ESP+000001a0: 00000007 00000034 0000017c 00000001
+[20:43:44] ESP+000001c0: 00000000 00000002 1a26ef4e 00000298
+[20:43:44] ESP+000001e0: f33271ba 0000053c 0000004a 00000588
+[20:43:44] ESP+00000200: 00000032 00000900 000002fa 00000000
+[20:43:44] ESP+00000220: 00000330 00000000 38505fc8 00000f70
+[20:43:44] ESP+00000240: b1280544 00001334 00000056 0000138c
+[20:43:44] ESP+00000260: 00000002 00000001 0000017c 000015dc
+[20:43:44] ESP+00000280: 00000001 00000003 00001ef8 00000e8c
+[20:43:44] ESP+000002a0: 00000002 00000005 00003098 00000098
+[20:43:44] ESP+000002c0: 00000002 00000007 000031fc 000000f0
+[20:43:44] ESP+000002e0: 00000002 0000000b 00003314 00000008
+[20:43:44] ESP+00000300: 00000001 00000001 00000006 0000008c
+[20:43:44] ESP+00000320: 0000005e 00000000 00000000 00000000
+[20:43:44] ESP+00000340: 00000000 00000000 00000002 00000024
+[20:43:44] ESP+00000360: 004e0049 004f0044 00530057 0057005c
+[20:43:44] ESP+00000380: 1a26ef4e 0000011c 00000044 00000164
+[20:43:44] ESP+000003a0: 0000004a 0000040c 00000342 00000002
+[20:43:44] ESP+000003c0: 000002fa 00000003 32ceeacd 00000a80
+[20:43:44] ESP+000003e0: 38505fc8 00000df4 0000005e 00000e54
+[20:43:44] Loaded modules:
+[20:43:44] 00400000 - 0051f000 samp-server.exe
+[20:43:44] 77210000 - 773aa000 ntdll.dll
+[20:43:44] 74b60000 - 74c40000 KERNEL32.DLL
+[20:43:44] 76aa0000 - 76c9c000 KERNELBASE.dll
+[20:43:44] 75e20000 - 7639a000 SHELL32.dll
+[20:43:44] 74a00000 - 74b1f000 ucrtbase.dll
+[20:43:44] 76680000 - 766bb000 cfgmgr32.dll
+[20:43:44] 75b60000 - 75be4000 shcore.dll
+[20:43:44] 77030000 - 770ef000 msvcrt.dll
+[20:43:44] 76ee0000 - 76f9b000 RPCRT4.dll
+[20:43:44] 749e0000 - 74a00000 SspiCli.dll
+[20:43:44] 749d0000 - 749da000 CRYPTBASE.dll
+[20:43:44] 75a30000 - 75a8f000 bcryptPrimitives.dll
+[20:43:44] 76fa0000 - 77016000 sechost.dll
+[20:43:44] 756d0000 - 75946000 combase.dll
+[20:43:44] 75090000 - 75655000 windows.storage.dll
+[20:43:44] 75990000 - 75a0c000 msvcp_win.dll
+[20:43:44] 76770000 - 767e9000 advapi32.dll
+[20:43:44] 76950000 - 76967000 profapi.dll
+[20:43:44] 76630000 - 76673000 powrprof.dll
+[20:43:44] 77020000 - 7702d000 UMPDC.dll
+[20:43:44] 75aa0000 - 75ae4000 shlwapi.dll
+[20:43:44] 74b30000 - 74b51000 GDI32.dll
+[20:43:44] 75b40000 - 75b57000 win32u.dll
+[20:43:44] 767f0000 - 7694a000 gdi32full.dll
+[20:43:44] 76ca0000 - 76e37000 USER32.dll
+[20:43:44] 756c0000 - 756cf000 kernel.appcore.dll
+[20:43:44] 75a10000 - 75a23000 cryptsp.dll
+[20:43:44] 6d4c0000 - 6d4c8000 WSOCK32.dll
+[20:43:44] 6f530000 - 6f554000 WINMM.dll
+[20:43:44] 75bf0000 - 75c4e000 WS2_32.dll
+[20:43:44] 6f500000 - 6f523000 winmmbase.dll
+[20:43:44] 75950000 - 75975000 IMM32.DLL
+[20:43:44] 573f0000 - 57440000 crashdetect.DLL
+[20:43:44] 554c0000 - 55529000 MSVCP100.dll
+[20:43:44] 55400000 - 554bf000 MSVCR100.dll
+[20:43:44] 558b0000 - 558f4000 mysql.DLL
+[20:43:44] 679b0000 - 67a1f000 MSVCP140.dll
+[20:43:44] 54d40000 - 5524d000 libmysql.dll
+[20:43:44] 6b460000 - 6b473000 VCRUNTIME140.dll
+[20:43:44] 6c420000 - 6c42a000 Secur32.dll
+[20:43:44] 6c570000 - 6c581000 napinsp.dll
+[20:43:44] 6c550000 - 6c566000 pnrpnsp.dll
+[20:43:44] 6fec0000 - 6ff12000 mswsock.dll
+[20:43:44] 6ff70000 - 70001000 DNSAPI.dll
+[20:43:44] 76720000 - 76727000 NSI.dll
+[20:43:44] 70100000 - 70132000 IPHLPAPI.DLL
+[20:43:44] 6c540000 - 6c54b000 winrnr.dll
+[20:43:44] 6c520000 - 6c536000 NLAapi.dll
+[20:43:44] 6c510000 - 6c520000 wshbth.dll
+[20:43:44] 6fcb0000 - 6fcb8000 rasadhlp.dll
+[20:43:44] 55390000 - 553f7000 streamer.DLL
+[20:43:44] 10000000 - 1000f000 sscanf.DLL
+[20:43:44] 6b940000 - 6b94b000 socket.DLL
+[20:43:44] 54c90000 - 54d33000 MSVCR90.dll
+[20:43:44] 55300000 - 5538e000 MSVCP90.dll
+[20:43:44] 54b00000 - 54b47000 SSLEAY32.dll
+[20:43:44] 54a10000 - 54afe000 MSVCR120.dll
+[20:43:44] 54b50000 - 54c8c000 LIBEAY32.dll
+[20:43:44] 700a0000 - 700f1000 fwpuclnt.dll
+[20:43:44] 76730000 - 76749000 bcrypt.dll
+[02:43:50] Run time error 19: "File or function is not found"
+[02:43:50]  json_parse_string
+[02:43:50]  json_get_bool
+[02:43:50]  json_get_string
+[02:43:50]  json_close
+[02:43:50] Run time error 19: "File or function is not found"
+[02:43:50]  json_parse_string
+[02:43:50]  json_get_bool
+[02:43:50]  json_get_string
+[02:43:50]  json_close
+[02:48:33] Run time error 19: "File or function is not found"
+[02:48:33]  fileOpen
+[02:48:33]  fileSeek
+[02:48:33]  fileRead
+[02:51:16] Run time error 19: "File or function is not found"
+[02:51:16]  fileOpen
+[02:51:16]  fileSeek
+[02:51:16]  fileRead
+[02:57:26] Run time error 19: "File or function is not found"
+[02:57:26]  fileOpen
+[02:57:26]  fileSeek
+[02:57:26]  fileRead
+[00:09:28] Run time error 19: "File or function is not found"
+[00:09:28]  fileOpen
+[00:09:28]  fileSeek
+[00:09:28]  fileRead
+[01:01:30] Run time error 19: "File or function is not found"
+[01:01:30]  fileOpen
+[01:01:30]  fileSeek
+[01:01:30]  fileRead
+[01:01:33] Run time error 19: "File or function is not found"
+[01:01:33]  fileOpen
+[01:01:33]  fileSeek
+[01:01:33]  fileRead
+[01:10:43] Run time error 19: "File or function is not found"
+[01:10:43]  fileOpen
+[01:10:43]  fileSeek
+[01:10:43]  fileRead
+[01:16:32] Run time error 19: "File or function is not found"
+[01:16:32]  fileOpen
+[01:16:32]  fileSeek
+[01:16:32]  fileRead
+[01:22:16] Run time error 19: "File or function is not found"
+[01:22:16]  fileOpen
+[01:22:16]  fileSeek
+[01:22:16]  fileRead
+[00:29:01] Run time error 19: "File or function is not found"
+[00:29:01]  fileOpen
+[00:29:01]  fileSeek
+[00:29:01]  fileRead
+[00:38:11] Run time error 19: "File or function is not found"
+[00:38:11]  fileOpen
+[00:38:11]  fileSeek
+[00:38:11]  fileRead
+[00:45:39] Run time error 19: "File or function is not found"
+[00:45:39]  fileOpen
+[00:45:39]  fileSeek
+[00:45:39]  fileRead
+[00:50:24] Run time error 19: "File or function is not found"
+[00:50:24]  fileOpen
+[00:50:24]  fileSeek
+[00:50:24]  fileRead
+[19:12:43] Run time error 19: "File or function is not found"
+[19:12:43]  fileOpen
+[19:12:43]  fileSeek
+[19:12:43]  fileRead
+[19:15:48] Run time error 4: "Array index out of bounds"
+[19:15:48] AMX backtrace:
+[19:15:48] #0 00444ed0 in AracHurdaKontrol (veh=2000) at F:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:73817
+[19:15:48] #1 0022144c in public JBC_OnDialogResponse (playerid=0, dialogid=261, response=1, listitem=10, inputtext[]=@049a4348 "Onayla") at F:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:36648
+[19:15:48] #2 native CallLocalFunction () from samp-server.exe
+[19:15:48] #3 0000d3b0 in public OnDialogResponse (playerid=0, dialogid=261, response=1, listitem=10, inputtext[]=@049a4298 "Onayla") at F:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\JunkBuster.inc:121
+[19:16:55] Run time error 4: "Array index out of bounds"
+[19:16:55] AMX backtrace:
+[19:16:55] #0 00444ed0 in AracHurdaKontrol (veh=2000) at F:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:73817
+[19:16:55] #1 0022144c in public JBC_OnDialogResponse (playerid=0, dialogid=261, response=1, listitem=10, inputtext[]=@049a4348 "Onayla") at F:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:36648
+[19:16:55] #2 native CallLocalFunction () from samp-server.exe
+[19:16:55] #3 0000d3b0 in public OnDialogResponse (playerid=0, dialogid=261, response=1, listitem=10, inputtext[]=@049a4298 "Onayla") at F:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\JunkBuster.inc:121
+[19:36:52] Run time error 19: "File or function is not found"
+[19:36:52]  fileOpen
+[19:36:52]  fileSeek
+[19:36:52]  fileRead
+[19:38:30] Run time error 4: "Array index out of bounds"
+[19:38:30] AMX backtrace:
+[19:38:30] #0 0044508c in AracHurdaKontrol (veh=2000) at F:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:73827
+[19:38:30] #1 0022144c in public JBC_OnDialogResponse (playerid=0, dialogid=261, response=1, listitem=10, inputtext[]=@049a43c0 "Onayla") at F:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:36648
+[19:38:30] #2 native CallLocalFunction () from samp-server.exe
+[19:38:30] #3 0000d3b0 in public OnDialogResponse (playerid=0, dialogid=261, response=1, listitem=10, inputtext[]=@049a4310 "Onayla") at F:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\JunkBuster.inc:121
+[19:40:55] Run time error 19: "File or function is not found"
+[19:40:55]  fileOpen
+[19:40:55]  fileSeek
+[19:40:55]  fileRead
+[19:42:09] Run time error 4: "Array index out of bounds"
+[19:42:09] AMX backtrace:
+[19:42:09] #0 0044526c in AracHurdaKontrol (veh=2000) at F:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:73839
+[19:42:09] #1 002214c4 in public JBC_OnDialogResponse (playerid=0, dialogid=261, response=1, listitem=10, inputtext[]=@049a4424 "Onayla") at F:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:36651
+[19:42:09] #2 native CallLocalFunction () from samp-server.exe
+[19:42:09] #3 0000d3b0 in public OnDialogResponse (playerid=0, dialogid=261, response=1, listitem=10, inputtext[]=@049a4374 "Onayla") at F:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\JunkBuster.inc:121
+[20:01:15] Run time error 19: "File or function is not found"
+[20:01:15]  fileOpen
+[20:01:15]  fileSeek
+[20:01:15]  fileRead
+[20:07:00] Run time error 19: "File or function is not found"
+[20:07:00]  fileOpen
+[20:07:00]  fileSeek
+[20:07:00]  fileRead
+[20:11:16] Run time error 19: "File or function is not found"
+[20:11:16]  fileOpen
+[20:11:16]  fileSeek
+[20:11:16]  fileRead
+[20:22:24] Run time error 19: "File or function is not found"
+[20:22:24]  fileOpen
+[20:22:24]  fileSeek
+[20:22:24]  fileRead
+[20:56:21] Run time error 19: "File or function is not found"
+[20:56:21]  fileOpen
+[20:56:21]  fileSeek
+[20:56:21]  fileRead
+[21:02:47] Run time error 19: "File or function is not found"
+[21:02:47]  fileOpen
+[21:02:47]  fileSeek
+[21:02:47]  fileRead
+[21:13:36] Run time error 19: "File or function is not found"
+[21:13:36]  fileOpen
+[21:13:36]  fileSeek
+[21:13:36]  fileRead
+[21:47:55] Run time error 19: "File or function is not found"
+[21:47:55]  fileOpen
+[21:47:55]  fileSeek
+[21:47:55]  fileRead
+[21:49:04] Run time error 19: "File or function is not found"
+[21:49:04]  fileOpen
+[21:49:04]  fileSeek
+[21:49:04]  fileRead
+[22:01:21] Run time error 19: "File or function is not found"
+[22:01:21]  fileOpen
+[22:01:21]  fileSeek
+[22:01:21]  fileRead
+[22:23:06] Run time error 19: "File or function is not found"
+[22:23:06]  fileOpen
+[22:23:06]  fileSeek
+[22:23:06]  fileRead
+[22:31:31] Run time error 19: "File or function is not found"
+[22:31:31]  fileOpen
+[22:31:31]  fileSeek
+[22:31:31]  fileRead
+[16:18:49] Run time error 19: "File or function is not found"
+[16:18:49]  fileOpen
+[16:18:49]  fileSeek
+[16:18:49]  fileRead
+[18:19:41] Run time error 19: "File or function is not found"
+[18:19:41]  fileOpen
+[18:19:41]  fileSeek
+[18:19:41]  fileRead
+[18:37:58] Run time error 19: "File or function is not found"
+[18:37:58]  fileOpen
+[18:37:58]  fileSeek
+[18:37:58]  fileRead
+[18:42:26] Run time error 19: "File or function is not found"
+[18:42:26]  fileOpen
+[18:42:26]  fileSeek
+[18:42:26]  fileRead
+[18:45:17] Run time error 19: "File or function is not found"
+[18:45:17]  fileOpen
+[18:45:17]  fileSeek
+[18:45:17]  fileRead
+[19:11:12] Run time error 19: "File or function is not found"
+[19:11:12]  fileOpen
+[19:11:12]  fileSeek
+[19:11:12]  fileRead
+[00:48:56] Run time error 19: "File or function is not found"
+[00:48:56]  fileOpen
+[00:48:56]  fileSeek
+[00:48:56]  fileRead
+[00:51:46] Run time error 19: "File or function is not found"
+[00:51:46]  fileOpen
+[00:51:46]  fileSeek
+[00:51:46]  fileRead
+[00:25:10] Run time error 19: "File or function is not found"
+[00:25:10]  fileOpen
+[00:25:10]  fileSeek
+[00:25:10]  fileRead
+[00:28:51] Run time error 19: "File or function is not found"
+[00:28:51]  fileOpen
+[00:28:51]  fileSeek
+[00:28:51]  fileRead
+[14:47:30] Run time error 19: "File or function is not found"
+[14:47:30]  fileOpen
+[14:47:30]  fileSeek
+[14:47:30]  fileRead
+[14:48:18] Run time error 4: "Array index out of bounds"
+[14:48:18] AMX backtrace:
+[14:48:18] #0 0006ad00 in ?? (playerid=0, classid=0, ... <1073741821 arguments>) at src/modules/altkarakter.pwn:394
+[14:48:18] #1 0004aa70 in public OnPlayerRequestClass (... <2 arguments>) at F:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\YSI_Data\y_foreach\..\..\YSI_Coding\y_hooks\..\y_cgen\y_cgen.inc:127
+[14:48:24] Run time error 4: "Array index out of bounds"
+[14:48:24] AMX backtrace:
+[14:48:24] #0 0006ad00 in ?? (playerid=0, classid=1, ... <1073741821 arguments>) at src/modules/altkarakter.pwn:394
+[14:48:24] #1 0004aa70 in public OnPlayerRequestClass (... <2 arguments>) at F:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\YSI_Data\y_foreach\..\..\YSI_Coding\y_hooks\..\y_cgen\y_cgen.inc:127
+[14:48:24] Run time error 4: "Array index out of bounds"
+[14:48:24] AMX backtrace:
+[14:48:24] #0 0006ad00 in ?? (playerid=0, classid=0, ... <1073741821 arguments>) at src/modules/altkarakter.pwn:394
+[14:48:24] #1 0004aa70 in public OnPlayerRequestClass (... <2 arguments>) at F:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\YSI_Data\y_foreach\..\..\YSI_Coding\y_hooks\..\y_cgen\y_cgen.inc:127
+[14:59:27] Run time error 19: "File or function is not found"
+[14:59:27]  fileOpen
+[14:59:27]  fileSeek
+[14:59:27]  fileRead
+[14:59:57] Run time error 4: "Array index out of bounds"
+[14:59:57] AMX backtrace:
+[14:59:57] #0 0006ad00 in ?? (playerid=0, classid=0, ... <1073741821 arguments>) at src/modules/altkarakter.pwn:396
+[14:59:57] #1 0004aa70 in public OnPlayerRequestClass (... <2 arguments>) at F:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\YSI_Data\y_foreach\..\..\YSI_Coding\y_hooks\..\y_cgen\y_cgen.inc:127
+[15:00:02] Run time error 4: "Array index out of bounds"
+[15:00:02] AMX backtrace:
+[15:00:02] #0 0006ad00 in ?? (playerid=0, classid=1, ... <1073741821 arguments>) at src/modules/altkarakter.pwn:396
+[15:00:02] #1 0004aa70 in public OnPlayerRequestClass (... <2 arguments>) at F:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\YSI_Data\y_foreach\..\..\YSI_Coding\y_hooks\..\y_cgen\y_cgen.inc:127
+[15:00:03] Run time error 4: "Array index out of bounds"
+[15:00:03] AMX backtrace:
+[15:00:03] #0 0006ad00 in ?? (playerid=0, classid=0, ... <1073741821 arguments>) at src/modules/altkarakter.pwn:396
+[15:00:03] #1 0004aa70 in public OnPlayerRequestClass (... <2 arguments>) at F:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\YSI_Data\y_foreach\..\..\YSI_Coding\y_hooks\..\y_cgen\y_cgen.inc:127
+[15:03:15] Run time error 19: "File or function is not found"
+[15:03:15]  fileOpen
+[15:03:15]  fileSeek
+[15:03:15]  fileRead
+[15:03:47] Run time error 4: "Array index out of bounds"
+[15:03:47] AMX backtrace:
+[15:03:47] #0 0006ad00 in ?? (playerid=0, classid=0, ... <1073741821 arguments>) at src/modules/altkarakter.pwn:396
+[15:03:47] #1 0004aa70 in public OnPlayerRequestClass (... <2 arguments>) at F:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\YSI_Data\y_foreach\..\..\YSI_Coding\y_hooks\..\y_cgen\y_cgen.inc:127
+[15:03:54] Run time error 4: "Array index out of bounds"
+[15:03:54] AMX backtrace:
+[15:03:54] #0 0006ad00 in ?? (playerid=0, classid=1, ... <1073741821 arguments>) at src/modules/altkarakter.pwn:396
+[15:03:54] #1 0004aa70 in public OnPlayerRequestClass (... <2 arguments>) at F:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\YSI_Data\y_foreach\..\..\YSI_Coding\y_hooks\..\y_cgen\y_cgen.inc:127
+[15:03:55] Run time error 4: "Array index out of bounds"
+[15:03:55] AMX backtrace:
+[15:03:55] #0 0006ad00 in ?? (playerid=0, classid=2, ... <1073741821 arguments>) at src/modules/altkarakter.pwn:396
+[15:03:55] #1 0004aa70 in public OnPlayerRequestClass (... <2 arguments>) at F:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\YSI_Data\y_foreach\..\..\YSI_Coding\y_hooks\..\y_cgen\y_cgen.inc:127
+[15:03:55] Run time error 4: "Array index out of bounds"
+[15:03:55] AMX backtrace:
+[15:03:55] #0 0006ad00 in ?? (playerid=0, classid=3, ... <1073741821 arguments>) at src/modules/altkarakter.pwn:396
+[15:03:55] #1 0004aa70 in public OnPlayerRequestClass (... <2 arguments>) at F:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\YSI_Data\y_foreach\..\..\YSI_Coding\y_hooks\..\y_cgen\y_cgen.inc:127
+[15:03:55] Run time error 4: "Array index out of bounds"
+[15:03:55] AMX backtrace:
+[15:03:55] #0 0006ad00 in ?? (playerid=0, classid=4, ... <1073741821 arguments>) at src/modules/altkarakter.pwn:396
+[15:03:55] #1 0004aa70 in public OnPlayerRequestClass (... <2 arguments>) at F:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\YSI_Data\y_foreach\..\..\YSI_Coding\y_hooks\..\y_cgen\y_cgen.inc:127
+[19:06:07] Run time error 19: "File or function is not found"
+[19:06:07]  fileOpen
+[19:06:07]  fileSeek
+[19:06:07]  fileRead
+[19:06:52] Run time error 4: "Array index out of bounds"
+[19:06:52] AMX backtrace:
+[19:06:52] #0 0006ad00 in ?? (playerid=0, classid=0, ... <1073741821 arguments>) at src/modules/altkarakter.pwn:396
+[19:06:52] #1 0004aa70 in public OnPlayerRequestClass (... <2 arguments>) at F:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\YSI_Data\y_foreach\..\..\YSI_Coding\y_hooks\..\y_cgen\y_cgen.inc:127
+[19:18:16] Run time error 19: "File or function is not found"
+[19:18:16]  fileOpen
+[19:18:16]  fileSeek
+[19:18:16]  fileRead
+[19:18:57] Run time error 4: "Array index out of bounds"
+[19:18:57] AMX backtrace:
+[19:18:57] #0 000773c0 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4131
+[19:21:50] Run time error 19: "File or function is not found"
+[19:21:50]  fileOpen
+[19:21:50]  fileSeek
+[19:21:50]  fileRead
+[19:22:32] Run time error 4: "Array index out of bounds"
+[19:22:32] AMX backtrace:
+[19:22:32] #0 000773c0 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4131
+[20:34:04] Run time error 19: "File or function is not found"
+[20:34:04]  fileOpen
+[20:34:04]  fileSeek
+[20:34:04]  fileRead
+[20:35:00] Run time error 4: "Array index out of bounds"
+[20:35:00] AMX backtrace:
+[20:35:00] #0 00077390 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4115
+[21:22:45] Run time error 19: "File or function is not found"
+[21:22:45]  fileOpen
+[21:22:45]  fileSeek
+[21:22:45]  fileRead
+[21:23:37] Run time error 4: "Array index out of bounds"
+[21:23:37] AMX backtrace:
+[21:23:37] #0 00076c60 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4109
+[21:35:59] Run time error 19: "File or function is not found"
+[21:35:59]  fileOpen
+[21:35:59]  fileSeek
+[21:35:59]  fileRead
+[21:37:14] Run time error 4: "Array index out of bounds"
+[21:37:14] AMX backtrace:
+[21:37:14] #0 00076f68 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4109
+[21:49:19] Run time error 19: "File or function is not found"
+[21:49:19]  fileOpen
+[21:49:19]  fileSeek
+[21:49:19]  fileRead
+[21:49:57] Run time error 4: "Array index out of bounds"
+[21:49:57] AMX backtrace:
+[21:49:57] #0 00077328 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4109
+[21:53:15] Run time error 19: "File or function is not found"
+[21:53:15]  fileOpen
+[21:53:15]  fileSeek
+[21:53:15]  fileRead
+[21:53:50] Run time error 4: "Array index out of bounds"
+[21:53:50] AMX backtrace:
+[21:53:50] #0 00077328 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4109
+[21:58:08] Run time error 19: "File or function is not found"
+[21:58:08]  fileOpen
+[21:58:08]  fileSeek
+[21:58:08]  fileRead
+[21:58:49] Run time error 4: "Array index out of bounds"
+[21:58:49] AMX backtrace:
+[21:58:49] #0 00077454 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4109
+[22:14:36] Run time error 19: "File or function is not found"
+[22:14:36]  fileOpen
+[22:14:36]  fileSeek
+[22:14:36]  fileRead
+[22:15:13] Run time error 4: "Array index out of bounds"
+[22:15:13] AMX backtrace:
+[22:15:13] #0 0007747c in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4109
+[22:26:52] Run time error 19: "File or function is not found"
+[22:26:52]  fileOpen
+[22:26:52]  fileSeek
+[22:26:52]  fileRead
+[22:29:31] Run time error 4: "Array index out of bounds"
+[22:29:31] AMX backtrace:
+[22:29:31] #0 00077368 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4109
+[22:31:14] Run time error 19: "File or function is not found"
+[22:31:14]  fileOpen
+[22:31:14]  fileSeek
+[22:31:14]  fileRead
+[22:31:48] Run time error 4: "Array index out of bounds"
+[22:31:48] AMX backtrace:
+[22:31:48] #0 0007739c in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4109
+[22:35:04] Run time error 19: "File or function is not found"
+[22:35:04]  fileOpen
+[22:35:04]  fileSeek
+[22:35:04]  fileRead
+[22:37:06] Run time error 4: "Array index out of bounds"
+[22:37:06] AMX backtrace:
+[22:37:06] #0 0007737c in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4110
+[22:38:47] Run time error 19: "File or function is not found"
+[22:38:47]  fileOpen
+[22:38:47]  fileSeek
+[22:38:47]  fileRead
+[22:39:26] Run time error 4: "Array index out of bounds"
+[22:39:26] AMX backtrace:
+[22:39:26] #0 0007737c in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4110
+[22:45:47] Run time error 19: "File or function is not found"
+[22:45:47]  fileOpen
+[22:45:47]  fileSeek
+[22:45:47]  fileRead
+[22:46:31] Run time error 4: "Array index out of bounds"
+[22:46:31] AMX backtrace:
+[22:46:31] #0 0007737c in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4110
+[22:48:48] Run time error 19: "File or function is not found"
+[22:48:48]  fileOpen
+[22:48:48]  fileSeek
+[22:48:48]  fileRead
+[22:51:25] Run time error 4: "Array index out of bounds"
+[22:51:25] AMX backtrace:
+[22:51:25] #0 0007737c in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4110
+[23:11:40] Run time error 19: "File or function is not found"
+[23:11:40]  fileOpen
+[23:11:40]  fileSeek
+[23:11:40]  fileRead
+[23:32:01] Run time error 19: "File or function is not found"
+[23:32:01]  fileOpen
+[23:32:01]  fileSeek
+[23:32:01]  fileRead
+[23:38:35] Run time error 19: "File or function is not found"
+[23:38:35]  fileOpen
+[23:38:35]  fileSeek
+[23:38:35]  fileRead
+[23:40:57] Run time error 4: "Array index out of bounds"
+[23:40:57] AMX backtrace:
+[23:40:57] #0 00077b40 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4112
+[23:41:35] Run time error 4: "Array index out of bounds"
+[23:41:35] AMX backtrace:
+[23:41:35] #0 00077b40 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4112
+[23:44:37] Run time error 19: "File or function is not found"
+[23:44:37]  fileOpen
+[23:44:37]  fileSeek
+[23:44:37]  fileRead
+[23:51:49] Run time error 19: "File or function is not found"
+[23:51:49]  fileOpen
+[23:51:49]  fileSeek
+[23:51:49]  fileRead
+[23:52:26] Run time error 4: "Array index out of bounds"
+[23:52:26] AMX backtrace:
+[23:52:26] #0 00077d74 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4111
+[23:54:45] Run time error 19: "File or function is not found"
+[23:54:45]  fileOpen
+[23:54:45]  fileSeek
+[23:54:45]  fileRead
+[23:55:34] Run time error 4: "Array index out of bounds"
+[23:55:34] AMX backtrace:
+[23:55:34] #0 00077d7c in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4111
+[23:56:08] Run time error 4: "Array index out of bounds"
+[23:56:08] AMX backtrace:
+[23:56:08] #0 00077d7c in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4111
+[23:57:02] Run time error 4: "Array index out of bounds"
+[23:57:02] AMX backtrace:
+[23:57:02] #0 00077d7c in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4111
+[23:57:36] Run time error 4: "Array index out of bounds"
+[23:57:36] AMX backtrace:
+[23:57:36] #0 00077d7c in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4111
+[00:00:05] Run time error 19: "File or function is not found"
+[00:00:05]  fileOpen
+[00:00:05]  fileSeek
+[00:00:05]  fileRead
+[00:01:13] Run time error 4: "Array index out of bounds"
+[00:01:13] AMX backtrace:
+[00:01:13] #0 00077d9c in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4112
+[00:06:06] Run time error 19: "File or function is not found"
+[00:06:06]  fileOpen
+[00:06:06]  fileSeek
+[00:06:06]  fileRead
+[00:06:55] Run time error 4: "Array index out of bounds"
+[00:06:55] AMX backtrace:
+[00:06:55] #0 00077d9c in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4111
+[00:28:34] Run time error 19: "File or function is not found"
+[00:28:34]  fileOpen
+[00:28:34]  fileSeek
+[00:28:34]  fileRead
+[00:28:52] Run time error 19: "File or function is not found"
+[00:28:52]  fileOpen
+[00:28:52]  fileSeek
+[00:28:52]  fileRead
+[00:29:29] Run time error 4: "Array index out of bounds"
+[00:29:29] AMX backtrace:
+[00:29:29] #0 00077da4 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4111
+[00:29:46] Run time error 4: "Array index out of bounds"
+[00:29:46] AMX backtrace:
+[00:29:46] #0 003345d0 in KarakterYukle (playerid=0) at eightborn.pwn:53251
+[00:29:46] #1 003311ec in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:53027
+[11:16:36] Run time error 19: "File or function is not found"
+[11:16:36]  fileOpen
+[11:16:36]  fileSeek
+[11:16:36]  fileRead
+[11:17:33] Run time error 4: "Array index out of bounds"
+[11:17:33] AMX backtrace:
+[11:17:33] #0 00078258 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4045
+[11:18:20] Run time error 4: "Array index out of bounds"
+[11:18:20] AMX backtrace:
+[11:18:20] #0 00078258 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4045
+[11:18:34] Run time error 4: "Array index out of bounds"
+[11:18:34] AMX backtrace:
+[11:18:34] #0 00334a84 in KarakterYukle (playerid=0) at eightborn.pwn:53185
+[11:18:34] #1 003316a0 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52961
+[11:21:23] Run time error 19: "File or function is not found"
+[11:21:23]  fileOpen
+[11:21:23]  fileSeek
+[11:21:23]  fileRead
+[11:21:52] Run time error 4: "Array index out of bounds"
+[11:21:52] AMX backtrace:
+[11:21:52] #0 000789b0 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4046
+[11:21:59] Run time error 4: "Array index out of bounds"
+[11:21:59] AMX backtrace:
+[11:21:59] #0 00333158 in KarakterYukle (playerid=0) at eightborn.pwn:53033
+[11:21:59] #1 00331df8 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52962
+[11:23:55] Run time error 19: "File or function is not found"
+[11:23:55]  fileOpen
+[11:23:55]  fileSeek
+[11:23:55]  fileRead
+[11:24:27] Run time error 4: "Array index out of bounds"
+[11:24:27] AMX backtrace:
+[11:24:27] #0 000789b0 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4046
+[11:24:35] Run time error 4: "Array index out of bounds"
+[11:24:35] AMX backtrace:
+[11:24:35] #0 00335230 in KarakterYukle (playerid=0) at eightborn.pwn:53188
+[11:24:35] #1 00331df8 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52962
+[21:04:48] Run time error 19: "File or function is not found"
+[21:04:48]  fileOpen
+[21:04:48]  fileSeek
+[21:04:48]  fileRead
+[21:05:45] Run time error 4: "Array index out of bounds"
+[21:05:45] AMX backtrace:
+[21:05:45] #0 00078d20 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4046
+[21:06:02] Run time error 4: "Array index out of bounds"
+[21:06:02] AMX backtrace:
+[21:06:02] #0 003355a0 in KarakterYukle (playerid=0) at eightborn.pwn:53188
+[21:06:02] #1 00332168 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52962
+[21:33:35] Run time error 19: "File or function is not found"
+[21:33:35]  fileOpen
+[21:33:35]  fileSeek
+[21:33:35]  fileRead
+[21:34:15] Run time error 4: "Array index out of bounds"
+[21:34:15] AMX backtrace:
+[21:34:15] #0 00078f68 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4046
+[21:34:29] Run time error 4: "Array index out of bounds"
+[21:34:29] AMX backtrace:
+[21:34:29] #0 00335898 in KarakterYukle (playerid=0) at eightborn.pwn:53190
+[21:34:29] #1 00332460 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52964
+[23:58:00] Run time error 19: "File or function is not found"
+[23:58:00]  fileOpen
+[23:58:00]  fileSeek
+[23:58:00]  fileRead
+[23:59:31] Run time error 4: "Array index out of bounds"
+[23:59:31] AMX backtrace:
+[23:59:31] #0 00078fc8 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4046
+[23:59:41] Run time error 4: "Array index out of bounds"
+[23:59:41] AMX backtrace:
+[23:59:41] #0 003359a8 in KarakterYukle (playerid=0) at eightborn.pwn:53191
+[23:59:41] #1 00332570 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52965
+[00:00:44] Run time error 4: "Array index out of bounds"
+[00:00:44] AMX backtrace:
+[00:00:44] #0 003359a8 in KarakterYukle (playerid=0) at eightborn.pwn:53191
+[00:00:44] #1 00332570 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52965
+[00:05:53] Run time error 19: "File or function is not found"
+[00:05:53]  fileOpen
+[00:05:53]  fileSeek
+[00:05:53]  fileRead
+[00:06:31] Run time error 4: "Array index out of bounds"
+[00:06:31] AMX backtrace:
+[00:06:31] #0 00078fc8 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:4046
+[00:06:39] Run time error 4: "Array index out of bounds"
+[00:06:39] AMX backtrace:
+[00:06:39] #0 00335a3c in KarakterYukle (playerid=0) at eightborn.pwn:53192
+[00:06:39] #1 00332604 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52966
+[00:07:21] Run time error 4: "Array index out of bounds"
+[00:07:21] AMX backtrace:
+[00:07:21] #0 00335a3c in KarakterYukle (playerid=0) at eightborn.pwn:53192
+[00:07:21] #1 00332604 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52966
+[15:36:22] Run time error 19: "File or function is not found"
+[15:36:22]  fileOpen
+[15:36:22]  fileSeek
+[15:36:22]  fileRead
+[15:37:00] Run time error 4: "Array index out of bounds"
+[15:37:00] AMX backtrace:
+[15:37:00] #0 0007b8c4 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3978
+[15:42:14] Run time error 19: "File or function is not found"
+[15:42:14]  fileOpen
+[15:42:14]  fileSeek
+[15:42:14]  fileRead
+[15:43:47] Run time error 19: "File or function is not found"
+[15:43:47]  fileOpen
+[15:43:47]  fileSeek
+[15:43:47]  fileRead
+[15:45:19] Run time error 4: "Array index out of bounds"
+[15:45:19] AMX backtrace:
+[15:45:19] #0 0007b8c4 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3978
+[15:50:09] Run time error 4: "Array index out of bounds"
+[15:50:09] AMX backtrace:
+[15:50:09] #0 0007b8c4 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3978
+[15:50:27] Run time error 4: "Array index out of bounds"
+[15:50:27] AMX backtrace:
+[15:50:27] #0 00337338 in KarakterYukle (playerid=0) at eightborn.pwn:53024
+[15:50:27] #1 00333f00 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52798
+[15:54:21] Run time error 4: "Array index out of bounds"
+[15:54:21] AMX backtrace:
+[15:54:21] #0 0007b8d0 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3978
+[15:54:50] Run time error 4: "Array index out of bounds"
+[15:54:50] AMX backtrace:
+[15:54:50] #0 00337344 in KarakterYukle (playerid=0) at eightborn.pwn:53024
+[15:54:50] #1 00333f0c in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52798
+[18:20:29] Run time error 4: "Array index out of bounds"
+[18:20:29] AMX backtrace:
+[18:20:29] #0 0007c838 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3978
+[18:20:56] Run time error 4: "Array index out of bounds"
+[18:20:56] AMX backtrace:
+[18:20:56] #0 0007c838 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3978
+[18:21:08] Run time error 4: "Array index out of bounds"
+[18:21:08] AMX backtrace:
+[18:21:08] #0 00338614 in KarakterYukle (playerid=0) at eightborn.pwn:53041
+[18:21:08] #1 003351dc in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52815
+[18:22:03] Run time error 4: "Array index out of bounds"
+[18:22:03] AMX backtrace:
+[18:22:03] #0 0006cd38 in ?? (playerid=0, areaid=20, ... <1073741821 arguments>) at src/modules/bolgeler.pwn:86
+[18:22:03] #1 0004aa68 in public OnPlayerEnterDynamicArea (... <2 arguments>) at F:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\YSI_Data\y_foreach\..\..\YSI_Coding\y_hooks\..\y_cgen\y_cgen.inc:127
+[11:16:33] Run time error 4: "Array index out of bounds"
+[11:16:33] AMX backtrace:
+[11:16:33] #0 0007dcf4 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3979
+[11:16:43] Run time error 4: "Array index out of bounds"
+[11:16:43] AMX backtrace:
+[11:16:43] #0 003378ac in KarakterYukle (playerid=0) at eightborn.pwn:52968
+[11:16:43] #1 00334474 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52742
+[12:49:25] Run time error 4: "Array index out of bounds"
+[12:49:25] AMX backtrace:
+[12:49:25] #0 0007dcf4 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3979
+[12:49:32] Run time error 4: "Array index out of bounds"
+[12:49:32] AMX backtrace:
+[12:49:32] #0 003378ac in KarakterYukle (playerid=0) at eightborn.pwn:52968
+[12:49:32] #1 00334474 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52742
+[12:49:56] Run time error 4: "Array index out of bounds"
+[12:49:56] AMX backtrace:
+[12:49:56] #0 0006cdc0 in ?? (playerid=0, areaid=433, ... <1073741821 arguments>) at src/modules/bolgeler.pwn:89
+[12:49:56] #1 0004aa68 in public OnPlayerEnterDynamicArea (... <2 arguments>) at F:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\YSI_Data\y_foreach\..\..\YSI_Coding\y_hooks\..\y_cgen\y_cgen.inc:127
+[13:01:37] Run time error 4: "Array index out of bounds"
+[13:01:37] AMX backtrace:
+[13:01:37] #0 0007dd88 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3979
+[13:01:44] Run time error 4: "Array index out of bounds"
+[13:01:44] AMX backtrace:
+[13:01:44] #0 00337940 in KarakterYukle (playerid=0) at eightborn.pwn:52968
+[13:01:44] #1 00334508 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52742
+[12:33:33] Run time error 4: "Array index out of bounds"
+[12:33:33] AMX backtrace:
+[12:33:33] #0 0007dfa0 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3979
+[12:33:40] Run time error 4: "Array index out of bounds"
+[12:33:40] AMX backtrace:
+[12:33:40] #0 00337ea0 in KarakterYukle (playerid=0) at eightborn.pwn:52975
+[12:33:40] #1 00334720 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52742
+[12:36:32] Run time error 4: "Array index out of bounds"
+[12:36:32] AMX backtrace:
+[12:36:32] #0 0007dfa0 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3979
+[12:36:49] Run time error 4: "Array index out of bounds"
+[12:36:49] AMX backtrace:
+[12:36:49] #0 00337ea0 in KarakterYukle (playerid=0) at eightborn.pwn:52975
+[12:36:49] #1 00334720 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52742
+[12:37:14] Run time error 4: "Array index out of bounds"
+[12:37:14] AMX backtrace:
+[12:37:14] #0 0006eda4 in CountDownTimer () at src/modules/cekilis.pwn:95
+[12:37:14] #1 0006e7a8 in public CountDownTimer@_yT () at src/modules/cekilis.pwn:66
+[12:44:57] Run time error 4: "Array index out of bounds"
+[12:44:57] AMX backtrace:
+[12:44:57] #0 0007e078 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3979
+[12:45:05] Run time error 4: "Array index out of bounds"
+[12:45:05] AMX backtrace:
+[12:45:05] #0 00337f78 in KarakterYukle (playerid=0) at eightborn.pwn:52975
+[12:45:05] #1 003347f8 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52742
+[12:45:26] Run time error 4: "Array index out of bounds"
+[12:45:26] AMX backtrace:
+[12:45:26] #0 0006ee7c in CountDownTimer () at src/modules/cekilis.pwn:100
+[12:45:26] #1 0006e7a8 in public CountDownTimer@_yT () at src/modules/cekilis.pwn:66
+[12:48:46] Run time error 4: "Array index out of bounds"
+[12:48:46] AMX backtrace:
+[12:48:46] #0 0007e0ac in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3979
+[12:48:55] Run time error 4: "Array index out of bounds"
+[12:48:55] AMX backtrace:
+[12:48:55] #0 00337fac in KarakterYukle (playerid=0) at eightborn.pwn:52975
+[12:48:55] #1 0033482c in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52742
+[12:49:19] Run time error 4: "Array index out of bounds"
+[12:49:19] AMX backtrace:
+[12:49:19] #0 0006eeb0 in CountDownTimer () at src/modules/cekilis.pwn:100
+[12:49:19] #1 0006e7a8 in public CountDownTimer@_yT () at src/modules/cekilis.pwn:66
+[14:14:51] Run time error 4: "Array index out of bounds"
+[14:14:51] AMX backtrace:
+[14:14:51] #0 0007e09c in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3979
+[14:14:58] Run time error 4: "Array index out of bounds"
+[14:14:58] AMX backtrace:
+[14:14:58] #0 00337f9c in KarakterYukle (playerid=0) at eightborn.pwn:52975
+[14:14:58] #1 0033481c in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52742
+[14:15:24] Run time error 4: "Array index out of bounds"
+[14:15:24] AMX backtrace:
+[14:15:24] #0 0006ee3c in CountDownTimer () at src/modules/cekilis.pwn:93
+[14:15:24] #1 0006e7a8 in public CountDownTimer@_yT () at src/modules/cekilis.pwn:66
+[14:19:12] Run time error 4: "Array index out of bounds"
+[14:19:12] AMX backtrace:
+[14:19:12] #0 0007e0a8 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3979
+[14:19:40] Run time error 4: "Array index out of bounds"
+[14:19:40] AMX backtrace:
+[14:19:40] #0 0007e0a8 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3979
+[14:20:18] Run time error 4: "Array index out of bounds"
+[14:20:18] AMX backtrace:
+[14:20:18] #0 0007e0a8 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3979
+[14:20:25] Run time error 4: "Array index out of bounds"
+[14:20:25] AMX backtrace:
+[14:20:25] #0 00337fa8 in KarakterYukle (playerid=0) at eightborn.pwn:52975
+[14:20:25] #1 00334828 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52742
+[14:14:00] Run time error 4: "Array index out of bounds"
+[14:14:00] AMX backtrace:
+[14:14:00] #0 0007de84 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3979
+[14:14:07] Run time error 4: "Array index out of bounds"
+[14:14:07] AMX backtrace:
+[14:14:07] #0 00337940 in KarakterYukle (playerid=0) at eightborn.pwn:52978
+[14:14:07] #1 003341c0 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52745
+[14:17:06] Run time error 4: "Array index out of bounds"
+[14:17:06] AMX backtrace:
+[14:17:06] #0 0007de98 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3979
+[14:17:13] Run time error 4: "Array index out of bounds"
+[14:17:13] AMX backtrace:
+[14:17:13] #0 00337954 in KarakterYukle (playerid=0) at eightborn.pwn:52978
+[14:17:13] #1 003341d4 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52745
+[14:20:15] Run time error 4: "Array index out of bounds"
+[14:20:15] AMX backtrace:
+[14:20:15] #0 0007dfac in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3979
+[14:20:22] Run time error 4: "Array index out of bounds"
+[14:20:22] AMX backtrace:
+[14:20:22] #0 00337a68 in KarakterYukle (playerid=0) at eightborn.pwn:52978
+[14:20:22] #1 003342e8 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52745
+[20:11:14] Run time error 4: "Array index out of bounds"
+[20:11:14] AMX backtrace:
+[20:11:14] #0 0008c2e0 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3981
+[20:11:22] Run time error 4: "Array index out of bounds"
+[20:11:22] AMX backtrace:
+[20:11:22] #0 00343b68 in KarakterYukle (playerid=0) at eightborn.pwn:52683
+[20:11:22] #1 00340494 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52471
+[18:37:45] Run time error 4: "Array index out of bounds"
+[18:37:45] AMX backtrace:
+[18:37:45] #0 0008c794 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3981
+[18:43:26] Run time error 4: "Array index out of bounds"
+[18:43:26] AMX backtrace:
+[18:43:26] #0 0008c794 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3981
+[18:47:01] Run time error 4: "Array index out of bounds"
+[18:47:01] AMX backtrace:
+[18:47:01] #0 0008c794 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3981
+[18:47:13] Run time error 4: "Array index out of bounds"
+[18:47:13] AMX backtrace:
+[18:47:13] #0 003441b4 in KarakterYukle (playerid=0) at eightborn.pwn:52683
+[18:47:13] #1 00340ae0 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52471
+[17:39:21] Run time error 4: "Array index out of bounds"
+[17:39:21] AMX backtrace:
+[17:39:21] #0 0008c7b4 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3760
+[17:39:32] Run time error 4: "Array index out of bounds"
+[17:39:32] AMX backtrace:
+[17:39:32] #0 0034332c in KarakterYukle (playerid=0) at eightborn.pwn:52381
+[17:39:32] #1 0033fc58 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52169
+[23:12:11] Run time error 4: "Array index out of bounds"
+[23:12:11] AMX backtrace:
+[23:12:11] #0 0008d78c in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3761
+[23:12:22] Run time error 4: "Array index out of bounds"
+[23:12:22] AMX backtrace:
+[23:12:22] #0 00344304 in KarakterYukle (playerid=0) at eightborn.pwn:52382
+[23:12:22] #1 00340c30 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52170
+[23:14:51] Run time error 4: "Array index out of bounds"
+[23:14:51] AMX backtrace:
+[23:14:51] #0 002ada40 in public OnPlayerEditAttachedObject (playerid=0, response=1, index=7, modelid=-2065, boneid=1, Float:fOffsetX=-0.25100, Float:fOffsetY=0.05800, Float:fOffsetZ=0.00000, Float:fRotX=0.00000, Float:fRotY=0.00000, Float:fRotZ=0.00000, Float:fScaleX=1.00000, Float:fScaleY=0.91600, Float:fScaleZ=1.00000) at eightborn.pwn:44060
+[23:15:00] Run time error 4: "Array index out of bounds"
+[23:15:00] AMX backtrace:
+[23:15:00] #0 002ada40 in public OnPlayerEditAttachedObject (playerid=0, response=1, index=7, modelid=-2066, boneid=1, Float:fOffsetX=0.00000, Float:fOffsetY=0.00000, Float:fOffsetZ=0.00000, Float:fRotX=0.00000, Float:fRotY=0.00000, Float:fRotZ=0.00000, Float:fScaleX=1.00000, Float:fScaleY=1.00000, Float:fScaleZ=1.00000) at eightborn.pwn:44060
+[23:15:03] Run time error 4: "Array index out of bounds"
+[23:15:03] AMX backtrace:
+[23:15:03] #0 002ada40 in public OnPlayerEditAttachedObject (playerid=0, response=1, index=7, modelid=-2066, boneid=1, Float:fOffsetX=0.00000, Float:fOffsetY=0.00000, Float:fOffsetZ=0.00000, Float:fRotX=0.00000, Float:fRotY=0.00000, Float:fRotZ=0.00000, Float:fScaleX=1.00000, Float:fScaleY=1.00000, Float:fScaleZ=1.00000) at eightborn.pwn:44060
+[23:17:23] Run time error 4: "Array index out of bounds"
+[23:17:23] AMX backtrace:
+[23:17:23] #0 0008d4d0 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3761
+[23:17:31] Run time error 4: "Array index out of bounds"
+[23:17:31] AMX backtrace:
+[23:17:31] #0 00344200 in KarakterYukle (playerid=0) at eightborn.pwn:52388
+[23:17:31] #1 00340b2c in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52176
+[23:59:10] Run time error 4: "Array index out of bounds"
+[23:59:10] AMX backtrace:
+[23:59:10] #0 0032bdcc in public GrupYukle () at eightborn.pwn:51217
+[23:59:36] Run time error 4: "Array index out of bounds"
+[23:59:36] AMX backtrace:
+[23:59:36] #0 0008d4d0 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3761
+[23:59:44] Run time error 4: "Array index out of bounds"
+[23:59:44] AMX backtrace:
+[23:59:44] #0 003444c4 in KarakterYukle (playerid=0) at eightborn.pwn:52391
+[23:59:44] #1 00340df0 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52179
+[11:59:33] Run time error 4: "Array index out of bounds"
+[11:59:33] AMX backtrace:
+[11:59:33] #0 0032bdcc in public GrupYukle () at eightborn.pwn:51218
+[12:00:05] Run time error 4: "Array index out of bounds"
+[12:00:05] AMX backtrace:
+[12:00:05] #0 0008d4d0 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3761
+[14:54:53] Run time error 4: "Array index out of bounds"
+[14:54:53] AMX backtrace:
+[14:54:53] #0 0032bdcc in public GrupYukle () at eightborn.pwn:51218
+[14:56:01] Run time error 4: "Array index out of bounds"
+[14:56:01] AMX backtrace:
+[14:56:01] #0 0008d4d0 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3761
+[14:56:10] Run time error 4: "Array index out of bounds"
+[14:56:10] AMX backtrace:
+[14:56:10] #0 003444c4 in KarakterYukle (playerid=0) at eightborn.pwn:52392
+[14:56:10] #1 00340df0 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52180
+[14:57:30] Run time error 4: "Array index out of bounds"
+[14:57:30] AMX backtrace:
+[14:57:30] #0 0008d4d0 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3761
+[14:57:39] Run time error 4: "Array index out of bounds"
+[14:57:39] AMX backtrace:
+[14:57:39] #0 003444c4 in KarakterYukle (playerid=0) at eightborn.pwn:52392
+[14:57:39] #1 00340df0 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52180
+[15:02:34] Run time error 4: "Array index out of bounds"
+[15:02:34] AMX backtrace:
+[15:02:34] #0 0032bdcc in public GrupYukle () at eightborn.pwn:51218
+[15:03:12] Run time error 4: "Array index out of bounds"
+[15:03:12] AMX backtrace:
+[15:03:12] #0 0008d4d0 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3761
+[15:03:19] Run time error 4: "Array index out of bounds"
+[15:03:19] AMX backtrace:
+[15:03:19] #0 003444c4 in KarakterYukle (playerid=0) at eightborn.pwn:52392
+[15:03:19] #1 00340df0 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52180
+[09:45:04] Run time error 4: "Array index out of bounds"
+[09:45:04] AMX backtrace:
+[09:45:04] #0 0032c530 in public GrupYukle () at eightborn.pwn:51165
+[09:45:40] Run time error 4: "Array index out of bounds"
+[09:45:40] AMX backtrace:
+[09:45:40] #0 0008db6c in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3761
+[09:45:47] Run time error 4: "Array index out of bounds"
+[09:45:47] AMX backtrace:
+[09:45:47] #0 00344c28 in KarakterYukle (playerid=0) at eightborn.pwn:52339
+[09:45:47] #1 00341554 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52127
+[09:46:44] Run time error 4: "Array index out of bounds"
+[09:46:44] AMX backtrace:
+[09:46:44] #0 002ae2cc in public OnPlayerEditAttachedObject (playerid=0, response=0, index=8, modelid=0, boneid=13, Float:fOffsetX=0.00000, Float:fOffsetY=0.00000, Float:fOffsetZ=0.00000, Float:fRotX=0.00000, Float:fRotY=0.00000, Float:fRotZ=0.00000, Float:fScaleX=0.00000, Float:fScaleY=0.00000, Float:fScaleZ=0.00000) at eightborn.pwn:44072
+[09:46:48] Run time error 4: "Array index out of bounds"
+[09:46:48] AMX backtrace:
+[09:46:48] #0 002ae2cc in public OnPlayerEditAttachedObject (playerid=0, response=0, index=8, modelid=0, boneid=13, Float:fOffsetX=0.00000, Float:fOffsetY=0.00000, Float:fOffsetZ=0.00000, Float:fRotX=0.00000, Float:fRotY=0.00000, Float:fRotZ=0.00000, Float:fScaleX=0.00000, Float:fScaleY=0.00000, Float:fScaleZ=0.00000) at eightborn.pwn:44072
+[11:21:05] Run time error 4: "Array index out of bounds"
+[11:21:05] AMX backtrace:
+[11:21:05] #0 0032c534 in public GrupYukle () at eightborn.pwn:51165
+[11:21:36] Run time error 4: "Array index out of bounds"
+[11:21:36] AMX backtrace:
+[11:21:36] #0 0008db70 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3761
+[11:21:44] Run time error 4: "Array index out of bounds"
+[11:21:44] AMX backtrace:
+[11:21:44] #0 00344c2c in KarakterYukle (playerid=0) at eightborn.pwn:52339
+[11:21:44] #1 00341558 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52127
+[11:25:32] Run time error 4: "Array index out of bounds"
+[11:25:32] AMX backtrace:
+[11:25:32] #0 0032c538 in public GrupYukle () at eightborn.pwn:51165
+[11:26:34] Run time error 4: "Array index out of bounds"
+[11:26:34] AMX backtrace:
+[11:26:34] #0 0008db74 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3761
+[11:26:46] Run time error 4: "Array index out of bounds"
+[11:26:46] AMX backtrace:
+[11:26:46] #0 00344c30 in KarakterYukle (playerid=0) at eightborn.pwn:52339
+[11:26:46] #1 0034155c in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52127
+[11:28:48] Run time error 4: "Array index out of bounds"
+[11:28:48] AMX backtrace:
+[11:28:48] #0 0008db74 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3761
+[11:28:59] Run time error 4: "Array index out of bounds"
+[11:28:59] AMX backtrace:
+[11:28:59] #0 00344c30 in KarakterYukle (playerid=0) at eightborn.pwn:52339
+[11:28:59] #1 0034155c in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:52127
+[14:27:55] Run time error 4: "Array index out of bounds"
+[14:27:55] AMX backtrace:
+[14:27:55] #0 0032fff8 in public GrupYukle () at eightborn.pwn:50660
+[14:29:21] Run time error 4: "Array index out of bounds"
+[14:29:21] AMX backtrace:
+[14:29:21] #0 00092868 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3411
+[14:29:28] Run time error 4: "Array index out of bounds"
+[14:29:28] AMX backtrace:
+[14:29:28] #0 003486f0 in KarakterYukle (playerid=0) at eightborn.pwn:51834
+[14:29:28] #1 0034501c in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:51622
+[14:36:36] Run time error 4: "Array index out of bounds"
+[14:36:36] AMX backtrace:
+[14:36:36] #0 003300d0 in public GrupYukle () at eightborn.pwn:50660
+[14:37:07] Run time error 4: "Array index out of bounds"
+[14:37:07] AMX backtrace:
+[14:37:07] #0 00092940 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3411
+[14:37:15] Run time error 4: "Array index out of bounds"
+[14:37:15] AMX backtrace:
+[14:37:15] #0 003487c8 in KarakterYukle (playerid=0) at eightborn.pwn:51834
+[14:37:15] #1 003450f4 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:51622
+[20:13:04] Run time error 4: "Array index out of bounds"
+[20:13:04] AMX backtrace:
+[20:13:04] #0 00330178 in public GrupYukle () at eightborn.pwn:50660
+[20:13:35] Run time error 4: "Array index out of bounds"
+[20:13:35] AMX backtrace:
+[20:13:35] #0 000929a8 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3411
+[20:14:13] Run time error 4: "Array index out of bounds"
+[20:14:13] AMX backtrace:
+[20:14:13] #0 00348870 in KarakterYukle (playerid=0) at eightborn.pwn:51834
+[20:14:13] #1 0034519c in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:51622
+[20:29:00] Run time error 4: "Array index out of bounds"
+[20:29:00] AMX backtrace:
+[20:29:00] #0 00330508 in public GrupYukle () at eightborn.pwn:50660
+[20:29:38] Run time error 4: "Array index out of bounds"
+[20:29:38] AMX backtrace:
+[20:29:38] #0 00092d38 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3411
+[20:29:49] Run time error 4: "Array index out of bounds"
+[20:29:49] AMX backtrace:
+[20:29:49] #0 00348c00 in KarakterYukle (playerid=0) at eightborn.pwn:51834
+[20:29:49] #1 0034552c in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:51622
+[22:54:50] Run time error 4: "Array index out of bounds"
+[22:54:50] AMX backtrace:
+[22:54:50] #0 00332844 in public GrupYukle () at eightborn.pwn:50652
+[22:55:29] Run time error 4: "Array index out of bounds"
+[22:55:29] AMX backtrace:
+[22:55:29] #0 00094cc0 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3399
+[22:57:00] Run time error 4: "Array index out of bounds"
+[22:57:00] AMX backtrace:
+[22:57:00] #0 00332844 in public GrupYukle () at eightborn.pwn:50652
+[22:57:45] Run time error 4: "Array index out of bounds"
+[22:57:45] AMX backtrace:
+[22:57:45] #0 00094cc0 in public OnPlayerRequestClass (playerid=0, classid=0) at eightborn.pwn:3399
+[22:58:01] Run time error 4: "Array index out of bounds"
+[22:58:01] AMX backtrace:
+[22:58:01] #0 0034afcc in KarakterYukle (playerid=0) at eightborn.pwn:51827
+[22:58:01] #1 003478f8 in public OnQueryFinished (extraid=0, threadid=1) at eightborn.pwn:51615
+[13:21:13] Run time error 4: "Array index out of bounds"
+[13:21:13] AMX backtrace:
+[13:21:13] #0 0008faa4 in GetMapName (map=67) at src/modules/airsoft.pwn:663
+[13:21:13] #1 0008dc44 in public dialog_AirsoftCreateRoom (playerid=0, response=1, listitem=2, inputtext[]=@02daaa88 "") at src/modules/airsoft.pwn:465
+[13:21:13] #2 native CallLocalFunction () from samp-server.exe
+[13:21:13] #3 0005e2e0 in public JBC_OnDialogResponse (playerid=0, dialogid=32700, response=1, listitem=2, inputtext[]=@02daaa48 "") at D:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\easydialog.inc:128
+[13:21:13] #4 native CallLocalFunction () from samp-server.exe
+[13:21:13] #5 0000d3b0 in public OnDialogResponse (playerid=0, dialogid=32700, response=1, listitem=2, inputtext[]=@02daaa08 "") at D:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\JunkBuster.inc:121
+[13:27:52] Run time error 4: "Array index out of bounds"
+[13:27:52] AMX backtrace:
+[13:27:52] #0 0008fab0 in GetMapName (map=115) at src/modules/airsoft.pwn:663
+[13:27:52] #1 0008dc50 in public dialog_AirsoftCreateRoom (playerid=0, response=1, listitem=2, inputtext[]=@02daaa88 "") at src/modules/airsoft.pwn:465
+[13:27:52] #2 native CallLocalFunction () from samp-server.exe
+[13:27:52] #3 0005e2e0 in public JBC_OnDialogResponse (playerid=0, dialogid=32700, response=1, listitem=2, inputtext[]=@02daaa48 "") at D:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\easydialog.inc:128
+[13:27:52] #4 native CallLocalFunction () from samp-server.exe
+[13:27:52] #5 0000d3b0 in public OnDialogResponse (playerid=0, dialogid=32700, response=1, listitem=2, inputtext[]=@02daaa08 "") at D:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\JunkBuster.inc:121
+[13:28:02] Run time error 4: "Array index out of bounds"
+[13:28:02] AMX backtrace:
+[13:28:02] #0 0008fab0 in GetMapName (map=115) at src/modules/airsoft.pwn:663
+[13:28:02] #1 0008dc50 in public dialog_AirsoftCreateRoom (playerid=0, response=1, listitem=2, inputtext[]=@02daaa88 "") at src/modules/airsoft.pwn:465
+[13:28:02] #2 native CallLocalFunction () from samp-server.exe
+[13:28:02] #3 0005e2e0 in public JBC_OnDialogResponse (playerid=0, dialogid=32700, response=1, listitem=2, inputtext[]=@02daaa48 "") at D:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\easydialog.inc:128
+[13:28:02] #4 native CallLocalFunction () from samp-server.exe
+[13:28:02] #5 0000d3b0 in public OnDialogResponse (playerid=0, dialogid=32700, response=1, listitem=2, inputtext[]=@02daaa08 "") at D:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\JunkBuster.inc:121
+[13:35:44] Run time error 4: "Array index out of bounds"
+[13:35:44] AMX backtrace:
+[13:35:44] #0 0008fb08 in GetMapName (map=115) at src/modules/airsoft.pwn:664
+[13:35:44] #1 0008dc90 in public dialog_AirsoftCreateRoom (playerid=0, response=1, listitem=2, inputtext[]=@02daaab0 "") at src/modules/airsoft.pwn:466
+[13:35:44] #2 native CallLocalFunction () from samp-server.exe
+[13:35:44] #3 0005e2e0 in public JBC_OnDialogResponse (playerid=0, dialogid=32700, response=1, listitem=2, inputtext[]=@02daaa70 "") at D:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\easydialog.inc:128
+[13:35:44] #4 native CallLocalFunction () from samp-server.exe
+[13:35:44] #5 0000d3b0 in public OnDialogResponse (playerid=0, dialogid=32700, response=1, listitem=2, inputtext[]=@02daaa30 "") at D:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\JunkBuster.inc:121
+[13:36:01] Run time error 4: "Array index out of bounds"
+[13:36:01] AMX backtrace:
+[13:36:01] #0 0008fb08 in GetMapName (map=115) at src/modules/airsoft.pwn:664
+[13:36:01] #1 0008dc90 in public dialog_AirsoftCreateRoom (playerid=0, response=1, listitem=2, inputtext[]=@02daaab0 "") at src/modules/airsoft.pwn:466
+[13:36:01] #2 native CallLocalFunction () from samp-server.exe
+[13:36:01] #3 0005e2e0 in public JBC_OnDialogResponse (playerid=0, dialogid=32700, response=1, listitem=2, inputtext[]=@02daaa70 "") at D:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\easydialog.inc:128
+[13:36:01] #4 native CallLocalFunction () from samp-server.exe
+[13:36:01] #5 0000d3b0 in public OnDialogResponse (playerid=0, dialogid=32700, response=1, listitem=2, inputtext[]=@02daaa30 "") at D:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\JunkBuster.inc:121
+[13:36:59] Run time error 4: "Array index out of bounds"
+[13:36:59] AMX backtrace:
+[13:36:59] #0 00090104 in StartAirsoft (roomID=0) at src/modules/airsoft.pwn:675
+[13:36:59] #1 0008fc68 in public @Yj:StartAirsoft@_yT (__r=0, roomID=0) at src/modules/airsoft.pwn:668
+[15:25:33] Run time error 4: "Array index out of bounds"
+[15:25:33] AMX backtrace:
+[15:25:33] #0 0008fc20 in GetMapName (map=115) at src/modules/airsoft.pwn:668
+[15:25:33] #1 0008dce0 in public dialog_AirsoftCreateRoom (playerid=0, response=1, listitem=2, inputtext[]=@02daac94 "") at src/modules/airsoft.pwn:468
+[15:25:33] #2 native CallLocalFunction () from samp-server.exe
+[15:25:33] #3 0005e2e0 in public JBC_OnDialogResponse (playerid=0, dialogid=32700, response=1, listitem=2, inputtext[]=@02daac54 "") at D:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\easydialog.inc:128
+[15:25:33] #4 native CallLocalFunction () from samp-server.exe
+[15:25:33] #5 0000d3b0 in public OnDialogResponse (playerid=0, dialogid=32700, response=1, listitem=2, inputtext[]=@02daac14 "") at D:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\JunkBuster.inc:121
+[18:25:19] Run time error 4: "Array index out of bounds"
+[18:25:19] AMX backtrace:
+[18:25:19] #0 0007dd88 in public OnPlayerRequestClass (playerid=0, classid=0) at D:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:3979
+[18:25:23] Run time error 4: "Array index out of bounds"
+[18:25:23] AMX backtrace:
+[18:25:23] #0 00337c88 in KarakterYukle (playerid=0) at D:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:52975
+[18:25:23] #1 00334508 in public OnQueryFinished (extraid=0, threadid=1) at D:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:52742
+[18:25:46] Server crashed while executing eightborn.amx
+[18:25:46] AMX backtrace:
+[18:25:46] #0 native strcmp () from samp-server.exe
+[18:25:46] #1 00376dd0 in Buysa (text[]=@02d8dda0 "Do", text2[]=@01c67e3c "Do") at D:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:57740
+[18:25:46] #2 00237654 in public DR_OnDialogResponse (playerid=1, dialogid=271, response=1, listitem=5, inputtext[]=@02d4dee4 "E) Seviye: 3 - Para: Y") at D:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:36469
+[18:25:46] #3 0005e340 in public JBC_OnDialogResponse (playerid=1, dialogid=271, response=1, listitem=5, inputtext[]=@02d4dee4 "E) Seviye: 3 - Para: Y") at D:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\easydialog.inc:132
+[18:25:46] #4 native CallLocalFunction () from samp-server.exe
+[18:25:46] #5 0000d3b0 in public OnDialogResponse (playerid=1, dialogid=271, response=1, listitem=5, inputtext[]=@02d4de6c "E) Seviye: 3 - Para: Y") at D:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\JunkBuster.inc:121
+[18:25:46] Native backtrace:
+[18:25:46] #0 76c616fa in ?? () from C:\Windows\System32\KERNELBASE.dll
+[18:25:46] #1 004061b4 in ?? () from samp-server.exe
+[18:25:46] Registers:
+[18:25:46] EAX: fffffff0 EBX: 00000001 ECX: fffffff0 EDX: fffffff0
+[18:25:46] ESI: fffffff1 EDI: 000000f0 EBP: 00000000 ESP: 0019ef38
+[18:25:46] EIP: 004061b4 EFLAGS: 00210286
+[18:25:46] Stack:
+[18:25:46] ESP+00000000: fffffff0 0040650c 00000001 00000001
+[18:25:46] ESP+00000020: 0a77d5e8 0b8a354c 00000005 00000000
+[18:25:46] ESP+00000040: 00000005 00000005 004010b6 02e29080
+[18:25:46] ESP+00000060: 00000014 0019f120 0b8a3524 79714499
+[18:25:46] ESP+00000080: 02e29080 00000000 02d8dd8c 00376dd0
+[18:25:46] ESP+000000a0: 00693200 008218c3 ffffffff 108218c3
+[18:25:46] ESP+000000c0: 5fffffff 108218c2 555f5f5f 108218c2
+[18:25:46] ESP+000000e0: fff5f555 108218c3 fff5f5ff 10821882
+[18:25:46] ESP+00000100: f5ffffff 108218c3 f5ffffff 108218c3
+[18:25:46] ESP+00000120: 83ecf5b2 0000ffff 00000000 77c3b499
+[18:25:46] ESP+00000140: 0019f120 00000000 02e29080 08a30604
+[18:25:46] ESP+00000160: 02966938 79714499 0019f760 5941b8d5
+[18:25:46] ESP+00000180: 0019f120 0b8a3524 0019f118 59404078
+[18:25:46] ESP+000001a0: 0000005f 0000005f 0296ede8 0045bf78
+[18:25:46] ESP+000001c0: 086b9834 02d4df5c 02d8de24 08b157ac
+[18:25:46] ESP+000001e0: 0019f17c 593fa767 01c67e3c 0019f62c
+[18:25:46] ESP+00000200: e17fc66b 0019f150 591f8fd1 00000000
+[18:25:46] ESP+00000220: 00000001 02d8de48 0000d3b0 0000005f
+[18:25:46] ESP+00000240: 0019f18c 0019f18c 593fd65a 0019f62c
+[18:25:46] ESP+00000260: 0019f62c 0000005f 0b8a35dc 00000001
+[18:25:46] ESP+00000280: 0019f62c 00000005 53202945 79697665
+[18:25:46] ESP+000002a0: 31206564 00470030 69696969 00470073
+[18:25:46] ESP+000002c0: 65736e6f 00474800 00000007 02e29080
+[18:25:46] ESP+000002e0: 00000000 00000000 00000000 00000000
+[18:25:46] ESP+00000300: 00000000 00000000 00000000 00000000
+[18:25:46] ESP+00000320: 6a6a6a6a 8b4b936a a8282800 832a8b8b
+[18:25:46] ESP+00000340: 686a6a7e 31646268 7c686868 10a23985
+[18:25:46] ESP+00000360: bebebed6 08210861 03a9a9fd 08411082
+[18:25:46] ESP+00000380: 00822aa2 18a218c3 a0822aaa 18a218c3
+[18:25:46] ESP+000003a0: 00000000 18a218c3 7afaeaea 10c318a2
+[18:25:46] ESP+000003c0: aaaaaaaa 10831882 aaaaaaaa 108318a2
+[18:25:46] ESP+000003e0: aaaaaaaa 10831882 aaaaaaaa 10c318a2
+[18:25:46] Loaded modules:
+[18:25:46] 00400000 - 0051f000 samp-server.exe
+[18:25:46] 77be0000 - 77d7c000 ntdll.dll
+[18:25:46] 75700000 - 757e0000 KERNEL32.DLL
+[18:25:46] 76b20000 - 76d1a000 KERNELBASE.dll
+[18:25:46] 76370000 - 768c3000 SHELL32.dll
+[18:25:46] 755d0000 - 75690000 msvcrt.dll
+[18:25:46] 75260000 - 7529b000 cfgmgr32.dll
+[18:25:46] 752f0000 - 75412000 ucrtbase.dll
+[18:25:46] 75ea0000 - 75f29000 shcore.dll
+[18:25:46] 75de0000 - 75e9f000 RPCRT4.dll
+[18:25:46] 75240000 - 75260000 SspiCli.dll
+[18:25:46] 75230000 - 7523a000 CRYPTBASE.dll
+[18:25:46] 75690000 - 756f2000 bcryptPrimitives.dll
+[18:25:46] 775b0000 - 77629000 sechost.dll
+[18:25:46] 76030000 - 762a7000 combase.dll
+[18:25:46] 757e0000 - 75dde000 windows.storage.dll
+[18:25:46] 779b0000 - 77a30000 msvcp_win.dll
+[18:25:46] 77830000 - 778ae000 advapi32.dll
+[18:25:46] 762b0000 - 762cc000 profapi.dll
+[18:25:46] 76d50000 - 76da4000 powrprof.dll
+[18:25:46] 75520000 - 75564000 shlwapi.dll
+[18:25:46] 76ae0000 - 76b03000 GDI32.dll
+[18:25:46] 77a60000 - 77bc6000 gdi32full.dll
+[18:25:46] 77630000 - 777c9000 USER32.dll
+[18:25:46] 762f0000 - 76307000 win32u.dll
+[18:25:46] 77a30000 - 77a3f000 kernel.appcore.dll
+[18:25:46] 77a40000 - 77a52000 cryptsp.dll
+[18:25:46] 728e0000 - 728e8000 WSOCK32.dll
+[18:25:46] 74ce0000 - 74d04000 WINMM.dll
+[18:25:46] 777d0000 - 7782f000 WS2_32.dll
+[18:25:46] 73af0000 - 73b13000 winmmbase.dll
+[18:25:46] 76d20000 - 76d45000 IMM32.DLL
+[18:25:46] 593e0000 - 59430000 crashdetect.DLL
+[18:25:46] 59370000 - 593d9000 MSVCP100.dll
+[18:25:46] 592b0000 - 5936f000 MSVCR100.dll
+[18:25:46] 59260000 - 592a4000 mysql.DLL
+[18:25:46] 58900000 - 58e0d000 libmysql.dll
+[18:25:46] 751b0000 - 7521f000 MSVCP140.dll
+[18:25:46] 74d10000 - 74d24000 VCRUNTIME140.dll
+[18:25:46] 73290000 - 7329a000 Secur32.dll
+[18:25:46] 73600000 - 73611000 napinsp.dll
+[18:25:46] 735e0000 - 735f6000 pnrpnsp.dll
+[18:25:46] 72880000 - 728d2000 mswsock.dll
+[18:25:46] 73980000 - 73a10000 DNSAPI.dll
+[18:25:46] 76960000 - 76967000 NSI.dll
+[18:25:46] 73ab0000 - 73ae3000 IPHLPAPI.DLL
+[18:25:46] 735d0000 - 735db000 winrnr.dll
+[18:25:46] 735b0000 - 735c6000 NLAapi.dll
+[18:25:46] 735a0000 - 735b0000 wshbth.dll
+[18:25:46] 72f40000 - 72f48000 rasadhlp.dll
+[18:25:46] 591f0000 - 59257000 streamer.DLL
+[18:25:46] 10000000 - 1000f000 sscanf.DLL
+[18:25:46] 73450000 - 7345b000 socket.DLL
+[18:25:46] 59060000 - 590a7000 SSLEAY32.dll
+[18:25:46] 590b0000 - 591ec000 LIBEAY32.dll
+[18:25:46] 58870000 - 588fe000 MSVCP90.dll
+[18:25:46] 586d0000 - 587be000 MSVCR120.dll
+[18:25:46] 587c0000 - 58863000 MSVCR90.dll
+[18:25:46] 73440000 - 7344b000 SAMPSON.DLL
+[18:25:46] 70140000 - 70191000 fwpuclnt.dll
+[18:25:46] 76db0000 - 76dc9000 bcrypt.dll
+[19:12:02] Run time error 11: "Divide by zero"
+[19:12:02] AMX backtrace:
+[19:12:02] #0 003b1198 in FactMenu (id=1) at D:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:55751
+[19:12:02] #1 003b0794 in public cmd_birlik (playerid=1, params[]=@02d8e854 "") at D:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:55704
+[19:12:02] #2 native CallLocalFunction () from samp-server.exe
+[19:12:02] #3 00000e70 in public OnPlayerCommandText (playerid=1, cmdtext[]=@02d8e834 "/birlik") at D:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\zcmd.inc:102
+[19:12:05] Run time error 11: "Divide by zero"
+[19:12:05] AMX backtrace:
+[19:12:05] #0 003b1198 in FactMenu (id=1) at D:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:55751
+[19:12:05] #1 003b0794 in public cmd_birlik (playerid=1, params[]=@02d8e854 "") at D:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:55704
+[19:12:05] #2 native CallLocalFunction () from samp-server.exe
+[19:12:05] #3 00000e70 in public OnPlayerCommandText (playerid=1, cmdtext[]=@02d8e834 "/birlik") at D:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\zcmd.inc:102
+[19:12:22] Run time error 11: "Divide by zero"
+[19:12:22] AMX backtrace:
+[19:12:22] #0 003b1198 in FactMenu (id=1) at D:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:55751
+[19:12:22] #1 003b0794 in public cmd_birlik (playerid=1, params[]=@02d8e854 "") at D:\Dev\Eightborn\Eightborn SAMP Server Files\gamemodes\eightborn.pwn:55704
+[19:12:22] #2 native CallLocalFunction () from samp-server.exe
+[19:12:22] #3 00000e70 in public OnPlayerCommandText (playerid=1, cmdtext[]=@02d8e834 "/birlik") at D:\Dev\Eightborn\Eightborn SAMP Server Files\pawno\include\zcmd.inc:102

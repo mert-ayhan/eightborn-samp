@@ -1,0 +1,37 @@
+//For Nex-AC v1.0 (0.3.7-R1)
+
+#if defined _nex_ac_lang_included
+	#endinput
+#endif
+#define _nex_ac_lang_included
+
+new
+	SUSPICION_1[] =			"[SISTEM] Supheli ID %d. Neden: %03d%s",
+	SUSPICION_2[] =			"[SISTEM] Supheli IP %s. Neden: %03d%s",
+	VERSION_WARNING[] =		"[SISTEM] AntiCheatin bu versiyonu serveriniza uygun degil.",
+	CFG_OPENING_ERROR[] =	"[SISTEMI] HATA! - Yaratma-Okuma %s!",
+
+#if defined DEBUG
+	DEBUG_CODE_1[] =		"[SISTEM debug] ID %d exceeded %d flood attempts. Public ID: %d",
+	DEBUG_CODE_2[] =		"[SISTEM debug] Invalid version by ID %d. Version: %s",
+	DEBUG_CODE_3[] =		"[SISTEM debug] ID %d exceeded %d connections from 1 IP-address",
+	DEBUG_CODE_4[] =		"[SISTEM debug] Bad RCON login by IP %s using password %s",
+	DEBUG_CODE_5[] =		"[SISTEM debug] ID %d used NOP %s",
+#endif
+
+	KICK_MSG[] =			"{be9b7b}[SISTEM] {FFFFFF}Þüpheli hile programý kullandýðýnýz oyundan atýldýnýz. (#%03d)",
+	MAX_CONNECTS_MSG[] =	"{be9b7b}[SISTEM] {FFFFFF}Maksimum giriþ sayýsýna ulaþmýþsýnýz.",
+	UNKNOWN_CLIENT_MSG[] =	"{be9b7b}[SISTEM] {FFFFFF}Client'inizin bu versiyonu sunucuya uygun deðildir.",
+
+	LOADED_MSG_1[] =		" Anticheat Nex-AC loaded!",
+	LOADED_MSG_2[] =		" Anticheat version: %s",
+	LOADED_MSG_3[] =		" Author: Nexius",
+
+	STATS_STRING_1[] =		" Statistics anticheat Nex-AC",
+	STATS_STRING_2[] =		" Detected and prevented:",
+	STATS_STRING_3[] =		"  %d cheating attempts",
+	STATS_STRING_4[] =		"  %d hacking attempts",
+	STATS_STRING_5[] =		"  %d crashing attempts",
+	STATS_STRING_6[] =		"  %d flooding attempts",
+	STATS_STRING_7[] =		"  %d attacks",
+	STATS_STRING_8[] =		" Total detected and punished %d cheaters";
